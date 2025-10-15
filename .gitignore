@@ -1,0 +1,5 @@
+# .gitignore file for Python projects
+
+# Virtual environment directories
+venv/
+__pycache__/
